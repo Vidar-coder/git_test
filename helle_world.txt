@@ -1,1 +1,3 @@
 Hello Odin
+i am lance, aspiring full stack web developer
+hi i would like to try the added configuration
